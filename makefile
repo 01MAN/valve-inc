@@ -1,2 +1,2 @@
-main: TRPO2.c
-	gcc -Wall -o TRPO2 TRPO2.c
+main: trpo228.c
+	gcc -Wall -o trpo229 trpo228.c
